@@ -1,0 +1,33 @@
+# --- Code::Blocks ---
+*.cbp
+*.layout
+*.depend
+
+# --- Archivos binarios / compilados ---
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.pdb
+
+# --- Carpetas de compilación ---
+bin/
+obj/
+build/
+debug/
+release/
+
+# --- Archivos temporales del sistema ---
+Thumbs.db
+*.tmp
+*.bak
+
+# --- Archivos de VSCode (opcionales) ---
+.vscode/
+*.code-workspace
+
+# --- Archivos generados por el usuario ---
+*.log
